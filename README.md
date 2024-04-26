@@ -4,6 +4,7 @@ Desenvolvedor Full Stack & Técnico em informática de Minas Gerais. Atualmente 
 Gosto de tudo que envolve tecnologia e inovações, curto assistir uns animes, séries e filmes e jogar com os amigos no final de semana.
  
 Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
+
 #### Connect with me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derikincode/)&nbsp;
