@@ -12,7 +12,6 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:derikoliveira252@gmail.com)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@derikincode/)&nbsp;
 
-
 #### GitHub Stats
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="left" src="https://github-readme-stats.vercel.app/api?username=derikincode&show_icons=true&theme=tokyonight" />
@@ -35,7 +34,8 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
-<img src="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1714101746~exp=1714105346~hmac=25bb9e3a4b02e1dea36da103414494894b7a01800eb9aa6777dfba4fc078c5d6" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador derikincode">
+
+<img src="https://github.com/derikincode/derik-dev/assets/85948745/d401d091-7d97-431b-a015-6421fb99e071" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador derikincode">
 
 #### Studying in this moment:
 
@@ -64,8 +64,8 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 
 - GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
   
-- Developer vector created by storyset www.freepik.com (edited by author)
+- Developer vector created by [storyset](https://storyset.com/) www.freepik.com
   
 <div align="right" dir="auto">Made with by <a href="https://github.com/derikincode">Derik</a>.</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c3474&height=120&section=footer"/>
