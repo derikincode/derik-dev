@@ -1,9 +1,18 @@
 ## Olá! Me chamo Derik Oliveira 👋
 
+#### Connect with me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derikincode/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derikincode/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:derikoliveira252@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@derikincode/)&nbsp;
+
+
+#### GitHub Stats
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=derikincode&show_icons=true&theme=tokyonight" />
-<img width=41% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
- </div>
+<img width=40% align="left" src="https://github-readme-stats.vercel.app/api?username=derikincode&show_icons=true&theme=tokyonight" />
+<img width=35% align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
+</div>
 
  &nbsp;
  &nbsp;
@@ -21,7 +30,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1714101746~exp=1714105346~hmac=25bb9e3a4b02e1dea36da103414494894b7a01800eb9aa6777dfba4fc078c5d6" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador derikincode">
 
 #### Studying in this moment:
 
@@ -45,19 +54,4 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derikincode/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derikincode/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:derikoliveira252@gmail.com)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@derikincode/)&nbsp;
-
-</div>&nbsp;&nbsp;
- 
-
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
