@@ -1,8 +1,8 @@
 ## Olá! Me chamo Derik Oliveira 👋
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&theme=tokyonight" />
-<img width=41% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&show_icons=true&theme=tokyonight" />
+<img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=derikincode&show_icons=true&theme=tokyonight" />
+<img width=41% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
  </div>
 
  &nbsp;
