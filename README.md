@@ -59,14 +59,13 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-<details>
-<summary>‎ </summary>
-
+#### References:
 - Badges by [shields.io](https://shields.io/)
 
 - GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
   
 - Developer vector created by storyset www.freepik.com (edited by author)
-</details>
+  
+<div align="right" dir="auto">Made with by <a href="https://github.com/derikincode">Derik</a>.</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
