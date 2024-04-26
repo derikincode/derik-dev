@@ -19,9 +19,19 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 <img width=35% align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
 </div>
 
- &nbsp;
- &nbsp;
 
+ &nbsp;
+<details>
+<summary>‎ </summary>
+
+- Badges by [shields.io](https://shields.io/)
+
+- GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+  
+- Developer vector created by storyset www.freepik.com (edited by author)
+</details>
+
+ &nbsp;
 ## 🛠️ My Skills
 
 #### Markup and Style Languages:
