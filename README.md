@@ -19,19 +19,9 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 <img width=35% align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
 </div>
 
+&nbsp;
+&nbsp;
 
- &nbsp;
-<details>
-<summary>‎ </summary>
-
-- Badges by [shields.io](https://shields.io/)
-
-- GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-  
-- Developer vector created by storyset www.freepik.com (edited by author)
-</details>
-
- &nbsp;
 ## 🛠️ My Skills
 
 #### Markup and Style Languages:
@@ -68,5 +58,15 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)&nbsp;
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+<details>
+<summary>‎ </summary>
+
+- Badges by [shields.io](https://shields.io/)
+
+- GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+  
+- Developer vector created by storyset www.freepik.com (edited by author)
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
