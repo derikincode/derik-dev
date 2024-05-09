@@ -43,9 +43,9 @@
 
 
 ### ✨ GitHub Stats
-<div  align="center" style="margin-bottom:100px">
+<div  align="" style="margin-bottom:100px">
 <img width=40% align="left" src="https://github-readme-stats.vercel.app/api?username=derikincode&show_icons=true&theme=tokyonight" />
-<img width=35% align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
+<img width=30% align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
 </div>
 
 &nbsp;
